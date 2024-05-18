@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --fonte-primaria:"Roboto", sans-serif;
+  --fonte-secundaria:"Ubuntu", sans-serif;
+}
+
+main{
+  background: rgb(36,0,30);
+  background: linear-gradient(90deg, rgba(36,0,30,1) 0%, rgba(110,9,121,1) 35%, rgba(255,0,0,0.76234243697479) 100%);
+}
